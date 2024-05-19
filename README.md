@@ -27,8 +27,5 @@ I am also pretty drawn to User Experience and exploring new ways of making thing
 
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
 
 #
