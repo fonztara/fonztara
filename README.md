@@ -1,6 +1,7 @@
 # 🧡 Alfonso Tarallo
 
-**`Curious lifelong learner (Developer/UX Enthusiast)`**
+**`Curious lifelong learner`**<br/>
+**`(Developer/UX Enthusiast)`**
 
 I'm an indie full-stack developer in the making, and I really tend to be design-oriented as well. Technology is really fascinating to me and I do love designing solutions to real problems with code.<br/>
 I am also pretty drawn to User Experience and exploring new ways of making things easier to use for people, in particular Accessibility.
@@ -24,12 +25,6 @@ I am also pretty drawn to User Experience and exploring new ways of making thing
 <img align="left" alt="Figma" width="50px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 <div/>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 
 #
