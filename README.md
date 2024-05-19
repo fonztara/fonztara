@@ -8,7 +8,7 @@ I am also pretty drawn to User Experience and exploring new ways of making thing
 
 #
 
-### 🧰 Languages and Tools
+### 🔧 Languages and Tools
 
 <div style="padding:10px;">
 <img align="left" alt="Swift" width="30px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"/>
@@ -29,3 +29,7 @@ I am also pretty drawn to User Experience and exploring new ways of making thing
 <br/>
 
 #
+
+<details>
+ <summary><h3>👨‍💻 Fonztara's Coding Journey</h3></summary>
+   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean non sem at lorem volutpat ultricies vitae id risus. Sed iaculis tortor justo, sit amet fermentum erat sagittis a. Suspendisse auctor, arcu vulputate lobortis tempor, leo neque aliquam sem, quis faucibus diam tortor quis dolor. Donec id sapien vehicula, ullamcorper orci at, elementum nulla. Proin vulputate ut orci ut eleifend. Quisque faucibus feugiat dolor, molestie placerat purus ullamcorper non. Nam imperdiet gravida mauris, non consectetur quam suscipit vitae. Nulla aliquam diam at neque accumsan congue. Aenean dolor sapien, rhoncus vel consectetur tincidunt, fermentum sed felis. Proin laoreet mi tincidunt leo ornare.
