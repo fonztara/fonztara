@@ -30,8 +30,8 @@ User Experience is at the core of my work—I’m especially drawn to Accessibil
 
 #
 <h3>🛶 My Journey</h3>
-I'm currently studying Business at university, but my curiosity constantly pushes me beyond mere theory—especially toward Technology and Innovation.<br/>
-
-This drive led me to join the Apple Developer Academy in Naples, first as a Student and now as a Pier, a second-year role focused on hands-on, real-world learning experiences. At the Academy, I discovered a passion for identifying problems and designing thoughtful solutions, technological or otherwise.<br/>
-
+I'm currently studying Business at university, but my curiosity constantly pushes me beyond mere theory—especially toward Technology and Innovation.
+<br/>
+This drive led me to join the Apple Developer Academy in Naples, first as a Student and now as a Pier, a second-year role focused on hands-on, real-world learning experiences. At the Academy, I discovered a passion for identifying problems and designing thoughtful solutions, technological or otherwise.
+<br/>
 My goal is not just to find a job that pays the bills, but to build a career that excites me, challenges me, and allows me to create meaningful impact for others.
