@@ -3,7 +3,8 @@
 **`Curious lifelong learner`**
 **`(Developer/UX Enthusiast)`**
 
-I'm a Swift developer with a strong design sensibility and a deep appreciation for the Apple ecosystem. I believe in the limitless potential that comes from seamless integration, and I’m passionate about leveraging technology and innovation to create meaningful solutions to real-world problems through code.<br/>
+I'm a Swift developer with a strong design sensibility and a deep appreciation for the Apple ecosystem. I believe in the limitless potential that comes from seamless integration, and I’m passionate about leveraging technology and innovation to create meaningful solutions to real-world problems through code.
+<br/><br/>
 User Experience is at the core of my work—I’m especially drawn to Accessibility and continually explore new ways to make digital products more intuitive, inclusive, and effortless to use for everyone.
 
 #
@@ -31,7 +32,7 @@ User Experience is at the core of my work—I’m especially drawn to Accessibil
 #
 <h3>🛶 My Journey</h3>
 I'm currently studying Business at university, but my curiosity constantly pushes me beyond mere theory—especially toward Technology and Innovation.
-<br/>
+<br/><br/>
 This drive led me to join the Apple Developer Academy in Naples, first as a Student and now as a Pier, a second-year role focused on hands-on, real-world learning experiences. At the Academy, I discovered a passion for identifying problems and designing thoughtful solutions, technological or otherwise.
-<br/>
+<br/><br/>
 My goal is not just to find a job that pays the bills, but to build a career that excites me, challenges me, and allows me to create meaningful impact for others.
