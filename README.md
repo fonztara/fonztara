@@ -3,8 +3,8 @@
 **`Curious lifelong learner`**
 **`(Developer/UX Enthusiast)`**
 
-I'm an indie full-stack developer in the making, and I really tend to be design-oriented as well. Technology is really fascinating to me and I do love designing solutions to real problems with code.<br/>
-I am also pretty drawn to User Experience and exploring new ways of making things easier to use for people, in particular Accessibility.
+I'm a Swift developer with a strong design sensibility and a deep appreciation for the Apple ecosystem. I believe in the limitless potential that comes from seamless integration, and I’m passionate about leveraging technology and innovation to create meaningful solutions to real-world problems through code.<br/>
+User Experience is at the core of my work—I’m especially drawn to Accessibility and continually explore new ways to make digital products more intuitive, inclusive, and effortless to use for everyone.
 
 #
 
