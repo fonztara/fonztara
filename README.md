@@ -29,7 +29,9 @@ User Experience is at the core of my work—I’m especially drawn to Accessibil
 <br/>
 
 #
+<h3>🛶 My Journey</h3>
+I'm currently studying Business at university, but my curiosity constantly pushes me beyond mere theory—especially toward Technology and Innovation.<br/>
 
-<details>
- <summary><h3>🛶 My Journey</h3></summary>
-   I had never thought to be a software developer until less than 2 years ago. I have changed a few field of studies, as well as hobbies, but I never felt like settling. And now here I am, passionate about coding and many other things. Since I have been a student at the Apple Developer Academy in Naples I discovered how much I like identifying problems and designing and developing technological (or not) solutions. My dream is to never have to settle for a job just for for financial satisfaction, but for the happiness and excitement it can give me and I can give.
+This drive led me to join the Apple Developer Academy in Naples, first as a Student and now as a Pier, a second-year role focused on hands-on, real-world learning experiences. At the Academy, I discovered a passion for identifying problems and designing thoughtful solutions, technological or otherwise.<br/>
+
+My goal is not just to find a job that pays the bills, but to build a career that excites me, challenges me, and allows me to create meaningful impact for others.
