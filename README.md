@@ -1,7 +1,8 @@
 # 🧡 Alfonso Tarallo
 
 **`Curious lifelong learner`**
-**`(Developer/UX Enthusiast)`**
+**`Developer`**
+**`UX Enthusiast`**
 
 I'm a Swift developer with a strong design sensibility and a deep appreciation for the Apple ecosystem. I believe in the limitless potential that comes from seamless integration, and I’m passionate about leveraging technology and innovation to create meaningful solutions to real-world problems through code.
 <br/><br/>
